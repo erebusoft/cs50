@@ -4,6 +4,6 @@ int main()
 {
     for (int i = 0;i <100; i++)
     {
-        printf("this is a %d\n",i);
+        printf("this is a loop %d\n",i);
     }
 }
