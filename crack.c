@@ -2,5 +2,8 @@
 
 int main()
 {
-    printf("this is a test");
+    for (int i = 0;i <100; i++)
+    {
+        printf("this is a %d\n",i);
+    }
 }
